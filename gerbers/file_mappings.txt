@@ -1,0 +1,9 @@
+cmp - top copper
+sol - bottom copper
+stc - top soldermask
+sts - bottom soldermask
+plc - top silkscreen
+pls - bottom silkscreen
+drd - NC drill
+crc - top stencil
+png - reference board image
